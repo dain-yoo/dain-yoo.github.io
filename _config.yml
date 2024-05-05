@@ -21,7 +21,7 @@ repository               : "dain-yoo/dain-yoo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot-min.png"
+  avatar           : "profile.png"
   name             : "Dain Yoo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Government Department, Georgetown University"
