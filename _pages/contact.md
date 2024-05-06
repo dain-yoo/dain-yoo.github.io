@@ -1,10 +1,8 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+layout: archive
+title: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
 Department of Government
