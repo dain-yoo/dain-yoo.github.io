@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Dissertation Project
-* **Dictator’s Instrument for Security or Repression? Anti-Terror Law, Political Framing and Popular Support in Autocracies**
+* **Dictator’s Instrument for Security or Repression? Anti-Terror Law, Political Framing and Popular Support in Nondemocracies**
   :   Why do some anti-terror laws (ATLs) lend themselves to repression more than others? While numerous journalistic accounts denounce autocrats’ frequent use of _vaguely drafted_ security laws against political dissidents or ethno-religious minorities, systematic study of “vaguely drafted” ATLs and its association with increased repression is limited. I contend that the adoption of ATLs, followed by political framing of repression, can "induce passive support" in nondemocracies by altering political attitudes on national security, economic performance and distrust against social outgroups. Specifically, when ATLs are framed to target a highly identifiable outgroup - marked by distinct characteristics such as skin color or dialect - repression is perceived as being more selective and less arbitrary. This perceived selectivity of repression reduces uncertainty among the ingroup, leading to more support for government response against terrorism and a heightened antagonism toward social outgroups. With a focus on Egypt and Tunisia, I employ various empirical strategies including automated text analysis of ATLs, natural experiment and a novel survey experiment conducted in Tunisia. 
 
 ## Working Papers (Under Review)
