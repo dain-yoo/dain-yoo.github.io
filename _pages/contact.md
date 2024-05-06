@@ -7,10 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Department of Government
+Georgetown University
 
-Heading 1
-======
-
-Heading 2
-======
+dy187[at]georgetown.edu
