@@ -15,4 +15,4 @@ In my broader research, I explore the impact of observing mass demonstrations on
 
 I hold an MA in International Relations from Seoul National University and a BA in Arabic and Political Science from Binghamton University.
 
-Please contact me at [dy187@georgetown.edu](dy187@georgetown.edu).
+Please contact me at dy187[at]georgetown.edu.
