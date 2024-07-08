@@ -9,10 +9,10 @@ redirect_from:
 
 Welcome to my website! I am a PhD candidate in the Department of Government at Georgetown University. 
 
-My research interest lies at the intersection of political violence, authoritarian resilience and public opinion. My dissertation project, "Dictator’s Instrument for Security or Repression? Anti-Terror Law, Political Framing and Popular Support in Nondemocracies," investigates the conditions under which repressive state response to security threats may induce popular support and outgroup bias in nondemocratic contexts. With a focus on Egypt and Tunisia, I examine how identifiability of targeted outgroups can reduce uncertainty of being subject to repression among ingroups, resulting in an increase in support for potentially repressive policies. 
+My research interest lies at the intersection of political violence, authoritarian resilience and public opinion. My dissertation project, "Dictator’s Instrument for Security or Repression? Anti-Terror Law, Political Framing and Popular Support in Nondemocracies," investigates the conditions under which repressive state response to security threats may induce popular support and outgroup bias in nondemocratic contexts. In my broader research, I explore the impact of observing mass demonstrations on political trust, economic impact of terrorism and democratic backsliding.
 
-In my broader research, I explore the impact of witnessing mass demonstrations on political trust, economic impact of terrorism and the diffusion of democratic backsliding.
+My research article is published in [_International Interactions_](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364).
 
 I hold an MA in International Relations from Seoul National University and a BA in Arabic and Political Science from Binghamton University.
 
-Please contact me at dy187[at]georgetown.edu.
+**Contact: dy187[at]georgetown.edu**
