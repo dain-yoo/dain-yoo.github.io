@@ -9,14 +9,14 @@ author_profile: true
 {% include base_path %}
 
 ## Publications
-* **The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy (with Da Sul Kim, _Forthcoming at International Interactions_)**
+* **"The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy"**, _International Interactions_, 2024. (with Da Sul Kim) [Link]([https://drive.google.com/file/d/19Sc3SlDeYolqAuCifNyUrzjOfNZHSEwg/view?usp=share_link](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364))
   :   Does terrorism contribute to the growth of the shadow economy? Employing data on terrorism and the shadow economies of 116 countries from 1990 to 2017, we demonstrate that terrorism results in an increase in the size of the shadow economy and that the effect is larger in autocracies. We argue that political instability caused by terrorism leads to the erosion of institutional trust and social capital. Furthermore, ineffective and repressive counterterrorism measures in autocracies further hamper the economic pursuits of individuals, businesses, and foreign investors, which facilitates engagement in informal economic activities. We use the generalized method of moments to deal with the endogeneity, which supports the findings.
 
 ## Works Under Review
 * **Witnessing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World**
   :   While Mahsa Amini’s death in Iran 2022 sparked massive wave of protests and drew significant international attention, these events did not resonate significantly within neighboring Arab countries. What impact, if any, did this incident have on Arab public opinion, if not altering political behavior? Bringing evidence from a natural experiment of an interrupted observational survey in Libya and Mauritania, I find that exposure to the protests briefly improved both institutional trust and perception of corruption among respondents. Social media, on the other hand, mitigated such effects as those with social media access were more likely to develop negative views of their domestic institutions after observing the protests. 
   
-* **Exporting Autocrat’s Playbook? Diverging Impacts of China and Russia on Contemporary Democratic Backsliding (with Woojeong Jang)**
+* **Exporting Autocrat’s Playbook? Diverging Impacts of China and Russia on Contemporary Democratic Backsliding** (with Woojeong Jang)
   :   What roles do China and Russia play in contemporary backsliding? Under what conditions do they succeed or fail in spreading illiberal practices? Conducting difference-in-differences analyses, we contend that Chinese governance model, digital authoritarianism, has increasingly spread to the periphery of the dominant international order after 2014 while the Russian model of super-presidentialism, once prevalent in the former Soviet bloc, has experienced significant setbacks after 2014 due to Russia’s growing reputation as a security threat.
 
 
