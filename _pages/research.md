@@ -8,18 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
+## Peer-Reviewed Articles
 [2] Woojeong Jang and Dain Yoo. "Exporting Autocrat’s Playbook? Diverging Impacts of China and Russia on Contemporary Democratic Backsliding" **_Democratization_**. Forthcoming. 
-<details>
-  <summary>Abstract</summary>
-What roles do China and Russia play in contemporary backsliding? Under what conditions do they succeed or fail in spreading illiberal practices? Conducting difference-in-differences analyses, we contend that Chinese governance model, digital authoritarianism, has increasingly spread to the periphery of the dominant international order after 2014 while the Russian model of super-presidentialism, once prevalent in the former Soviet bloc, has experienced significant setbacks after 2014 due to Russia’s growing reputation as a security threat. 
-</details>
 
 [1] Dain Yoo and Da Sul Kim. "The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy" **_International Interactions_**. 50:5 (2024), 750-779. [[Link]](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364) 
-<details>
-  <summary>Abstract</summary>
-Does terrorism contribute to the growth of the shadow economy? Employing data on terrorism and the shadow economies of 116 countries from 1990 to 2017, we demonstrate that terrorism results in an increase in the size of the shadow economy and that the effect is larger in autocracies. We argue that political instability caused by terrorism leads to the erosion of institutional trust and social capital. Furthermore, ineffective and repressive counterterrorism measures in autocracies further hamper the economic pursuits of individuals, businesses, and foreign investors, which facilitates engagement in informal economic activities. We use the generalized method of moments to deal with the endogeneity, which supports the findings.
-</details>
 
 ## Under Review 
 Dain Yoo. "Witnessing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World."
