@@ -8,5 +8,5 @@ redirect_from:
 ---
 Updated: October 2024
 
-<embed src="{{ site.baseurl }}/files/CV_Dain Yoo.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/CV_Dain Yoo.pdf" width="600" height="700" type='application/pdf'>
 
