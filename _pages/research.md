@@ -20,4 +20,6 @@ Dain Yoo. "Witnessing Protests Abroad and Political Trust at Home: A Natural Exp
 Dain Yoo and Ashley Anderson. "Political Framing of Repression and Popular Support: Evidence from a Survey Experiment in Tunisia."
  
 Dain Yoo. "Does Arab-Israeli Conflict Unite or Divide? An Automated Text Analysis of Nasser’s Speeches and Egyptian Foreign Policy Towards Palestine." 
+
+Dain Yoo. "Vague and Broad: Anti-Terrorism Law and State Repression."
   
