@@ -6,7 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Updated: October 2024
-
-
-<object data="CV_Yoo.pdf" width="1000" height="1000" type='application/pdf'/>
+Click [[Here]](https://drive.google.com/file/d/1AbfQ9DdFvXOQQhyH7CeoUfSH8gwHBcjk/view?usp=share_link) for my latest CV.
