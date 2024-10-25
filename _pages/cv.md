@@ -8,4 +8,5 @@ redirect_from:
 ---
 Updated: October 2024
 
-<embed src="{{ site.baseurl }}/files/CV_Yoo.pdf" width="500" height="600">
+
+<object data="CV_Yoo.pdf" width="1000" height="1000" type='application/pdf'/>
