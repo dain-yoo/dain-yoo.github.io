@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 Updated: October 2024
-<embed src="{{ site.baseurl }}/files/CV_Dain Yoo (October).pdf" width="600" height="700">
+
+
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Yoo.pdf" width="1000" height="1000" type="application/pdf"></object>
