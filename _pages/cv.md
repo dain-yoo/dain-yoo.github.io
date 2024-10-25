@@ -8,5 +8,4 @@ redirect_from:
 ---
 Updated: October 2024
 
-
-<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Yoo.pdf" width="1000" height="1000" type="application/pdf"></object>
+<a href="/files/CV_Yoo.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="" type="application/pdf"></a>
