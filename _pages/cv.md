@@ -8,4 +8,4 @@ redirect_from:
 ---
 Updated: October 2024
 
-<a href="/files/CV_Yoo.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="" type="application/pdf"></a>
+<embed src="{{ site.baseurl }}/files/CV_Yoo.pdf" width="500" height="600">
