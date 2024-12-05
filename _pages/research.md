@@ -14,12 +14,12 @@ author_profile: true
 [1] Dain Yoo and Da Sul Kim. "The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy." **_International Interactions_**. 50:5 (2024), 750-779. [[Link]](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364) 
 
 ## Under Review 
-Dain Yoo. "Observing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World."
+"Observing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World."
 
 ## Works in Progress
 
-Dain Yoo. "A Novel Approach of Measuring Terrorism Definition."
+"A Novel Approach of Measuring Terrorism Definition."
 
-Dain Yoo. "Vague and Broad: Anti-Terrorism Laws and State Repression."
+"Vague and Broad: Anti-Terrorism Laws and State Repression."
  
-Dain Yoo. "Does Arab-Israeli Conflict Unite or Divide? An Automated Text Analysis of Nasser’s Speeches and Egyptian Foreign Policy Towards Palestine." 
+"Does Arab-Israeli Conflict Unite or Divide? An Automated Text Analysis of Nasser’s Speeches and Egyptian Foreign Policy Towards Palestine." 
