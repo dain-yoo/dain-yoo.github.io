@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-## Instructor
+## Instructor of Record
 
 * _GOVT 4010. Modern Authoritarianism: Evolving Strategies of Political Control_, Georgetown University (Spring 2025)
-  * Undergraduate pro-seminar funded by Jill Hopper Memorial Fellowship [Syllabus](https://drive.google.com/file/d/1TjeyVLiK_hE2vi78jriUS8t_UabIBUyK/view?usp=share_link) 
+  * Undergraduate pro-seminar funded by Jill Hopper Memorial Fellowship [Syllabus](https://drive.google.com/file/d/1BE_3ha5_yPwBeRgR2fdbnFWxxSZKKgmw/view?usp=share_link) 
 
 ## Teaching Assistant
 
