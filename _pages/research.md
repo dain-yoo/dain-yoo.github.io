@@ -14,14 +14,13 @@ author_profile: true
 [1] Dain Yoo and Da Sul Kim. "The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy." **_International Interactions_**. 50:5 (2024), 750-779. [[Link]](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364) 
 
 ## Working Papers
+Vague Anti-Terrorism Laws and State Repression: Introducing a Novel Measurement of Vagueness in Terrorism Definitions [[Draft]](https://drive.google.com/file/d/1Qdbs3jaFdDEFGjonu3q1AOSiGZk7W63E/view?usp=share_link) 
 
-[3] Vague Anti-Terrorism Laws and State Repression: Introducing a Novel Measurement of Vagueness in Terrorism Definitions [[Draft]](https://drive.google.com/file/d/1Qdbs3jaFdDEFGjonu3q1AOSiGZk7W63E/view?usp=share_link) 
+Anti-Terrorism Laws and Popular Support: Quasi-Experimental Evidence from Egypt [[Draft]](https://drive.google.com/file/d/1gKyryPhwVIHZqxqIWlnabp3AdhiKpfKr/view?usp=share_link) 
 
-[2] Anti-Terrorism Laws and Popular Support: Quasi-Experimental Evidence from Egypt [[Draft]](https://drive.google.com/file/d/1gKyryPhwVIHZqxqIWlnabp3AdhiKpfKr/view?usp=share_link) 
-
-[1] Does Arab-Israeli Conflict Unite or Divide? Text Analysis of Nasser’s Speeches and Egyptian Foreign Policy Towards Palestine [[Draft]](https://drive.google.com/file/d/1tXBYOCjBCJLrV8RtYTPXyVxTKpr0jDgC/view?usp=share_link) 
+Does Arab-Israeli Conflict Unite or Divide? Text Analysis of Nasser’s Speeches and Egyptian Foreign Policy Towards Palestine [[Draft]](https://drive.google.com/file/d/1tXBYOCjBCJLrV8RtYTPXyVxTKpr0jDgC/view?usp=share_link) 
 
 ## Works in Progress
-[2] Observing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World
+Observing Protests Abroad and Political Trust at Home: A Natural Experiment of the Mahsa Amini Protests and Public Opinion in the Arab World
 
-[1] Preaching Inclusion: The Paradox of Religious Discourse and Alleviating Outgroup Bias (with Da Sul Kim)
+Preaching Inclusion: The Paradox of Religious Discourse and Alleviating Outgroup Bias (with Da Sul Kim)
