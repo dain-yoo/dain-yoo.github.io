@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [Here](https://drive.google.com/file/d/1NBxr2zKUpllu8nR3HYMUDPvYQJGpw-6e/view?usp=share_link) for my latest CV. (Feb 2025)
+Click [here](https://drive.google.com/file/d/1cPD7H2cha3dBkXhnyhqSye_JgJ0ebftR/view?usp=share_link) for my latest CV. (Feb 2025)
