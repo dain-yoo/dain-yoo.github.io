@@ -14,5 +14,3 @@ My research interest lies at the intersection of authoritarianism, political vio
 My works are published in [_International Interactions_](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364) and [_Democratization_](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2434662#d1e314).
 
 I hold a Ph.D. in Government from Georgetown University, M.A. in International Relations from Seoul National University, and a B.A. in Arabic and Political Science from Binghamton University.
-
-Please contact me at dy187[at]georgetown.edu.
