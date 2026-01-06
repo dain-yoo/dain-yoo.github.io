@@ -23,7 +23,4 @@ Yoo, Dain. "Observing Protests Abroad and Political Trust at Home: A Natural Exp
 Yoo, Dain. "Does Arab-Israeli Conflict Unite or Divide? A Text Analysis of Nasser's Speeches and Egyptian Foreign Policy Toward Palestine."
 
 ## Works in Progress
-Kim, Da Sul and Dain Yoo. "Preaching Inclusion: The Paradox of Religious Discourse and Alleviating Outgroup Bias."
-
-
-Yoo, Dain. "Outgroup Identifiability and Perception of State Violence."
+Kim, Da Sul and Dain Yoo. "When Group-Based Shaming Works: Evidence from a Survey Experiment on Reducing Hostility Toward Religious Minorities."
