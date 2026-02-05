@@ -10,6 +10,7 @@ author_profile: true
 
 ### Bilkent University
 
+* _Introduction to Middle East Politics_ (Undergraduate, Spring 2026)
 * _Global Authoritarianism_ (Undergraduate, Fall 2025)
 
 ### Georgetown University (Instructor of Record)
