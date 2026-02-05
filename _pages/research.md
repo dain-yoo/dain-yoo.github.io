@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-Reviewed Articles
-Woojeong Jang and Dain Yoo. 2025. "Exporting Autocrat’s Playbook? Diverging Impacts of China and Russia on Contemporary Democratic Backsliding." **_Democratization_** 32 (8): 2189–2214. [[Link]](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2434662#d1e314) 
+Woojeong Jang and Dain Yoo. 2024. "Exporting Autocrat’s Playbook? Diverging Impacts of China and Russia on Contemporary Democratic Backsliding." **_Democratization_** 32 (8): 2189–2214. [[Link]](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2434662#d1e314) 
 
 Dain Yoo and Da Sul Kim. 2024. "The Invisible Impact of Conflict: A Study of Terrorism, Regime Type and the Shadow Economy." **_International Interactions_** 50 (5): 750–79. [[Link]](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2374364) 
 
